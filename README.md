@@ -1,4 +1,4 @@
-# ssl
+# Simple SpringBoot SSL project
 
 gradle bootRun
 
